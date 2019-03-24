@@ -1,14 +1,6 @@
-# A Blank PhoneGap App
+# Device Orientation Example with P5
 
-## Usage
-
-### PhoneGap CLI
-
-    $ phonegap create my-app --template blank
-
-### Desktop
-
-In your browser, open the file:
-
-    /www/index.html
-
+## More on P5:
+* [map](https://p5js.org/reference/#/p5/map)
+* [rotateX](https://p5js.org/reference/#/p5/rotateX)
+* [rotateY](https://p5js.org/reference/#/p5/rotateY)
