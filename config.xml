@@ -7,7 +7,5 @@
     <author email="support@chrisann.ca" href="http://chrisann.ca">
         Christine Clark
     </author>
-    <platform name="android">
-        <icon density="xxxhdpi" src="www/res/icon/icon.png" />
-    </platform>
+    <icon src="www/res/icon/icon.png" />
 </widget>
